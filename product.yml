@@ -17,4 +17,4 @@ spring:
     password: ssafy
 
 status: "default"
-commonValue: "commonValue"
+commonValue: "updateValue"
